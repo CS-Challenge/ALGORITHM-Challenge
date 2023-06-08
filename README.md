@@ -14,6 +14,7 @@
         <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/yujung7768903" width="140px" /></td>
         <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/ssosee" width="140px" /></td>
         <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/yoooyeon" width="140px" /></td>
+        <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/YoonSuHyeon" width="140px" /></td>
     </tr>
     <tr>
         <td align="center">
@@ -24,6 +25,9 @@
         </td>
         <td align="center">
           <a href="https://github.com/yoooyeon"> 황유연 </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/YoonSuHyeon"> 윤수현 </a>
         </td>
     </tr>
 </table>
