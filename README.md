@@ -12,7 +12,7 @@
 <table>
     <tr>
         <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/yujung7768903" width="140px" /></td>
-        <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/howisitgoing" width="140px" /></td>
+        <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/ssosee" width="140px" /></td>
         <td height="140px" align="center"><img src="https://avatars.githubusercontent.com/yoooyeon" width="140px" /></td>
     </tr>
     <tr>
@@ -20,7 +20,7 @@
           <a href="https://github.com/yujung7768903"> 김유정 </a>
         </td>
         <td align="center">
-          <a href="https://github.com/howisitgoing"> 장세웅 </a>
+          <a href="https://github.com/ssosee"> 장세웅 </a>
         </td>
         <td align="center">
           <a href="https://github.com/yoooyeon"> 황유연 </a>
