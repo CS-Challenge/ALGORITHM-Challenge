@@ -39,11 +39,11 @@
 
 | 날짜   | 문제 링크                                       | 풀이 코드 |
 | ------ | -------------------------------------------- |--------|
-| 23.06.12 |  ||
-| 23.06.13 |  ||
-| 23.06.14 |  ||
-| 23.06.15 |  ||
-| 23.06.16 |  ||
+| 23.06.12 | https://school.programmers.co.kr/learn/courses/30/lessons/17677 ||
+| 23.06.13 | https://school.programmers.co.kr/learn/courses/30/lessons/72414 ||
+| 23.06.14 | https://www.acmicpc.net/problem/2503 ||
+| 23.06.15 | https://school.programmers.co.kr/learn/courses/30/lessons/86971# ||
+| 23.06.16 | 자유 ||
 
 
 ### 2주차
