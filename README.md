@@ -4,9 +4,9 @@
 - 총 인원 수: 4명
 - 운영 기간: 23.06.05 ~ 23.06.30 ( 4주 )
 - 모임 날짜: 평일 주 5일 | 오전 10시 ~ 오전 12시 (2시간) | 온라인
+- 정기모임 진행방식 또는 패널티: [Wiki 페이지](https://github.com/CS-Challenge/ALGORITHM-Challenge/wiki/%EA%B7%9C%EC%B9%99) 참고
 
 ## 📍규칙
-* [Wiki 페이지](https://github.com/CS-Challenge/ALGORITHM-Challenge/wiki/%EA%B7%9C%EC%B9%99) 참고
 * commit: `이름: <문제 이름> 풀이(날짜)` ex) 김유정: 뉴스클러스터링(23.06.12)
 * 브랜치는 자기 이름으로
 * 파일명은 `이름_문제이름.py`
