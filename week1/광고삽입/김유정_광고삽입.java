@@ -1,6 +1,6 @@
 // 통과 X
 
-package week2.광고삽입;
+package week1.광고삽입;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
