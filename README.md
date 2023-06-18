@@ -42,24 +42,24 @@
 ### 1주차
 <!-- 문제 링크 셀 데이터 형식: [문제 풀이 플랫폼 | 문제 이름](문제 링크) -->
 
-| 날짜   | 문제 링크                                       | 풀이 코드 |
-| ------ | -------------------------------------------- |--------|
-| 23.06.12 | https://school.programmers.co.kr/learn/courses/30/lessons/17677 ||
-| 23.06.13 | https://school.programmers.co.kr/learn/courses/30/lessons/72414 ||
-| 23.06.14 | https://www.acmicpc.net/problem/2503 ||
-| 23.06.15 | https://school.programmers.co.kr/learn/courses/30/lessons/86971# ||
-| 23.06.16 | 자유 ||
+| 날짜   | 문제 링크                                       |
+| ------ | -------------------------------------------- |
+| 23.06.12 | https://school.programmers.co.kr/learn/courses/30/lessons/17677 |
+| 23.06.13 | https://school.programmers.co.kr/learn/courses/30/lessons/72414 |
+| 23.06.14 | https://www.acmicpc.net/problem/2503 |
+| 23.06.15 | https://school.programmers.co.kr/learn/courses/30/lessons/86971# |
+| 23.06.16 | 자유 |
 
 
 ### 2주차
 
-| 날짜   | 문제 링크                                       | 풀이 코드 |
-| ------ | -------------------------------------------- |--------|
-| 23.06.19 |  ||
-| 23.06.20 |  ||
-| 23.06.21 |  ||
-| 23.06.22 |  ||
-| 23.06.23 |  ||
+| 날짜   | 문제 링크                                       |
+| ------ | -------------------------------------------- |
+| 23.06.19 | https://www.acmicpc.net/problem/2578 |
+| 23.06.20 | https://school.programmers.co.kr/learn/courses/30/lessons/72413 |
+| 23.06.21 | https://school.programmers.co.kr/learn/courses/30/lessons/1844 |
+| 23.06.22 | https://school.programmers.co.kr/learn/courses/30/lessons/67258 |
+| 23.06.23 | 자유 |
 
 
 ### 3주차
