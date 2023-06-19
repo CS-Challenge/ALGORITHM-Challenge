@@ -60,6 +60,7 @@ public class 빙고 {
 
     }
 
+    // 가로
     private static int findXBingo(int startX, int startY) {
         Queue<Bingo> queue = new ArrayDeque<>();
         visited = new boolean[5][5];
@@ -89,6 +90,7 @@ public class 빙고 {
         return count;
     }
 
+    // 세로
     private static int findYBingo(int startX, int startY) {
         Queue<Bingo> queue = new ArrayDeque<>();
         visited = new boolean[5][5];
@@ -118,6 +120,7 @@ public class 빙고 {
         return count;
     }
 
+    // 대각선(/)
     private static int findDBingo1(int startX, int startY) {
         Queue<Bingo> queue = new ArrayDeque<>();
         visited = new boolean[5][5];
@@ -149,6 +152,7 @@ public class 빙고 {
         return count;
     }
 
+    // 대각선(\)
     private static int findDBingo2(int startX, int startY) {
         Queue<Bingo> queue = new ArrayDeque<>();
         visited = new boolean[5][5];
