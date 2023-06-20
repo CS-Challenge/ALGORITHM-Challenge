@@ -32,7 +32,7 @@ def solution(n, s, a, b, fares):  # 지점 갯수, 시작, A, B, 요금
     cost3 = [float('inf') for _ in range(n + 1)]
     dijkstra(b, adj, cost3)  # b에서 모든 지점으로
 
-    ans = [sa + sb]
+    ans = []
 
     for i in range(1, n + 1): # 각 지점을 경유함
         tmp = cost1[i] + cost2[i] + cost3[i]
