@@ -64,13 +64,13 @@
 
 ### 3주차
 
-| 날짜   | 문제 링크                                       | 풀이 코드 |
-| ------ | -------------------------------------------- |--------|
-| 23.06.26 |  ||
-| 23.06.27 |  ||
-| 23.06.28 |  ||
-| 23.06.29 |  ||
-| 23.06.30 |  ||
+| 날짜   | 문제 링크                                       |
+| ------ | -------------------------------------------- |
+| 23.06.26 | https://school.programmers.co.kr/learn/courses/30/lessons/150365 |
+| 23.06.27 | https://school.programmers.co.kr/learn/courses/30/lessons/68646 |
+| 23.06.28 | https://school.programmers.co.kr/learn/courses/30/lessons/43163 |
+| 23.06.29 | https://www.acmicpc.net/problem/13335 |
+| 23.06.30 | 자유 |
 
 
 ### 4주차
