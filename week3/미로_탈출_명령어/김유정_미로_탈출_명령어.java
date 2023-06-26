@@ -44,8 +44,12 @@ class 미로탈출명령어_Solution {
 
     private boolean isImpossible(int currX, int currY, int endX, int endY, int remainCnt) {
         int distance = Math.abs(endX - currX) + Math.abs(endY - currY);
-        if (distance > remainCnt || (remainCnt - distance) % 2 != 0) {
-            System.out.printf("currX: %d, currY: %d, remainCnt: %d, distance: %d\n", currX, currY, remainCnt, distance);
+        if (distance > remainCnt) {
+            System.out.printf("    [남은 횟수로 이동 불가능]currX: %d, currY: %d, 남은 횟수: %d, 남은 거리: %d\n", currX, currY, remainCnt, distance);
+            return true;
+        }
+        if ((remainCnt - distance) % 2 != 0) {
+            System.out.printf("    [횟수는 남았지만 이동 불가능한 경로]currX: %d, currY: %d, 남은 횟수: %d, 남은 거리: %d\n", currX, currY, remainCnt, distance);
             return true;
         }
         return false;
