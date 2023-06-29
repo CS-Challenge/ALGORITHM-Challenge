@@ -11,8 +11,6 @@ public class 김유정_단어_변환 {
 
 class 단어_변환_Solution {
     public int solution(String begin, String target, String[] words) {
-        List<String> convertibleWordList = getConvertibleWordList(begin, words);
-        System.out.println(convertibleWordList.toString());
         Queue<ConvertWord> queue = new LinkedList<>();
         queue.add(new ConvertWord(begin, 0));
         while (!queue.isEmpty()) {
