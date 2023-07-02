@@ -23,6 +23,7 @@ class TruckSolution {
         int answer = 0;
         int currWeight = 0;
         Queue<Integer> bridgeStatus = new LinkedList<>();
+        // 7 - 4 5 - 6 - -
         for (int truck : truckArr) {
             while (currWeight + truck > l) {
                 bridgeStatus.add(0);
