@@ -38,6 +38,7 @@ public class 트럭 {
         int bridgeWeight = 0;
         while (!bridge.isEmpty()) {
             time++;
+            // 현재 다리 무게 갱신(트럭이 다리를 건넌다.)
             bridgeWeight -= bridge.poll();
 
             if(!trucks.isEmpty()) {
