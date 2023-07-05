@@ -80,5 +80,5 @@
 | 23.07.03 | https://school.programmers.co.kr/learn/courses/30/lessons/150367 |
 | 23.07.04 | https://school.programmers.co.kr/learn/courses/30/lessons/64063 ||
 | 23.07.05 | https://school.programmers.co.kr/learn/courses/30/lessons/118668 ||
-| 23.07.06 |  ||
-| 23.07.07 |  ||
+| 23.07.06 | https://www.acmicpc.net/problem/15686 ||
+| 23.07.07 | 자유 ||
