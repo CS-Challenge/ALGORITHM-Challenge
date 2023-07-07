@@ -48,22 +48,27 @@ public class 치킨_배달 {
     }
 
     private static void dfs(int start, int depth) {
+        // 치킨집 갯수가 m과 동일하면
         if(depth == m) {
             int sum = 0;
             for(int i = 0; i < home.size(); i++) {
                 int temp = Integer.MAX_VALUE;
                 for(int j = 0; j < bbq.size(); j++) {
+                    // 폐업하지 않은 가게이면
                     if(open[j]) {
+                        // 치킨거리 계산
                         int distance = Math.abs(home.get(i).x - bbq.get(j).x) + Math.abs(home.get(i).y - bbq.get(j).y);
                         temp = Math.min(distance, temp);
                     }
                 }
                 sum += temp;
             }
+            // 총 치킨 거리
             result = Math.min(sum, result);
             return;
         }
 
+        // 시간초과 유의
         for(int i = start; i < bbq.size(); i++) {
             open[i] = true;
             dfs(i+1, depth+1);
